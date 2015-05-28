@@ -1,0 +1,1 @@
+A simple OmniGraffle pedal board Stencil used to design and layout a pedal board.
